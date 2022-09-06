@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+  --ff-heading: 'Staatliches', cursive;
+  --ff-texting: 'Palanquin', sans-serif;
+
+  --bg-primary:hsl(218, 17%, 62%, 1);
+  --bg-secundary:hsl(233, 100%, 97%, 1);
+  --bg-h1:hsl(275, 18%, 79%, 1);
+
+  --fc-primary: hsl(0, 0%, 100%, 1);
+  --fc-secundary:hsl(274, 84%, 12%, 1);
+  --fc-terciary:hsl(232, 17%, 35%, 1);
+
+  --fs-body: 1.6rem;
+}
+
+body {
+  font-family: var(--ff-heading);
+  background-color: var(--bg-secundary);
+  color: var(--fc-primary);
+  font-size: var(--fs-body);
+}
+
+.page {
+  max-width: 38.4rem;
+  margin: 0 auto;
+}
+
+
+
+header {
+  background-color: var(--bg-primary);
+  text-align: center;
+  font-family: var(--ff-heading);
+  padding-bottom: 3.2rem;
+}
+
+header img {
+  margin-top: 3.2rem;
+  margin-bottom: 3.2rem;
+}
+
+header h1 {
+  background-color: var(--bg-h1);
+  padding: 8px 8.6rem 7px 8.7rem;
+  font-weight: 400;
+  font-size: 4.0rem;
+  line-height: 3.4rem;
+  
+  
+}
+
+main {
+  padding: 1.4rem 3.2rem 6.0rem;
+}
