@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://davif91.github.io/Stage03.Desafio1.Formulario-Mentoria/" targert="_blank"> ▶️ Visualizar Página </a>
+  <a href="https://davif91.github.io/Stage03.Desafio3.Mobile-First---Pagina-Space-Cream//" targert="_blank"> ▶️ Visualizar Página </a>
 </div>
 </br>
 
@@ -26,7 +26,7 @@
 </br>
 
 <h2>📱​ Mobile -​ Space Cream </h2>
-<img alt="preview" title="Space Cream" src="./readme/preview.png" width="30%">
+<img alt="preview" title="Space Cream" src="./readme/preview.png" width="25%">
 
 </br>
 
